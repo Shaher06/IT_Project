@@ -57,7 +57,7 @@ Educational-Platform/
 
 ## 🌐 Live Demo
 
-*(Add your GitHub Pages link here if available)*
+https://shaher06.github.io/Educational-Platform/
 
 ---
 
